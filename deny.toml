@@ -163,6 +163,15 @@ external-default-features = "allow"
 allow = [
     #"ansi_term@0.11.0",
     #{ crate = "ansi_term@0.11.0", reason = "you can specify a reason it is allowed" },
+    "MIT",
+    "Apache-2.0",
+    "Unicode-DFS-2016",
+    "MPL-2.0",
+    "BSD-2-Clause",
+    "BSD-3-Clause",
+    "ISC",
+    "CC0-1.0",
+    "BSD-4-Clause",
 ]
 # List of crates to deny
 deny = [
