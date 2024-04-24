@@ -1,5 +1,5 @@
 [package]
-name = "rustLearn"
+name = "rcli"
 version = "0.1.0"
 authors = ["Liu Bo <tyliubo0208@gmail.com>"]
 edition = "2021"
